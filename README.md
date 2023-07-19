@@ -13,7 +13,7 @@
 <p align="center"><strong>Collection of smart contracts deployable via the thirdweb SDK, dashboard and CLI</strong></p>
 <br />
 
-## Installation
+### Installation
 
 ```shell
 npm i @thirdweb-dev/contracts
